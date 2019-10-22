@@ -32,6 +32,9 @@ cals: 296kcal | fat: 16.80g | carbs: 0.00g | prot: 33.60g
 Cottage Cheese and Strawberries
 cals: 159kcal | fat: 5.46g | carbs: 15.67g | prot: 14.02g
 
+Cottage Cheese and Strawberries
+cals: 159kcal | fat: 5.46g | carbs: 15.67g | prot: 14.02g
+
 Deluxe Mixed Nuts (1/4 cup)
 cals: 170kcal | fat: 16.00g | carbs: 6.00g | prot: 4.00g
 
